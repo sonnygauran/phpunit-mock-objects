@@ -1,0 +1,6 @@
+{
+	"name": "phpunit/phpunit-mock-objects",
+	"type": "library",
+	"description": "Mock Object library for PHPUnit",
+	"keywords": ["mock","object","unit","testing","php"]
+}
